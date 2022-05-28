@@ -1,0 +1,44 @@
+@media(orientation: portrait){
+    .pricetape{
+        margin-left: 10px;
+    }
+
+    .pricetape div{
+        width: 725px;
+        height: 725px;
+    }
+
+
+
+    .pricetape p{
+        top: 0;
+    }
+
+    .text .saveskidka{
+        top: 60px;
+    }
+
+    .text .textline{
+        top: 45px;
+    }
+
+    .text .discountprice{
+        top: 45px;
+    }
+
+    .text .dostyp{
+        top: 100px;
+    }
+    
+    .text .greentext{
+        top: 100px;
+    }
+
+    .text .buuuy02{
+        top: 160px;   
+    }
+
+    .text .buuuy03{
+        top: 230px;   
+    }
+}

@@ -1,0 +1,13 @@
+@keyframes change-img {
+    0% {
+        background-image: url('../img23/Декоративный_скотч_1/DC1.jpg');
+    }
+
+    50% {
+        background-image: url('../img23/Декоративный_скотч_1/DC2.jpg');
+    }
+
+    100% {
+        background-image: url('../img23/Декоративный_скотч_1/DC1.jpg');
+    }
+}
