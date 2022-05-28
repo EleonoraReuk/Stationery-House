@@ -1,0 +1,309 @@
+
+
+.pricetape{
+    margin-left: 150px;
+    text-align: left;
+    height: auto;
+}
+
+.tape1{
+    box-shadow: 0px 0px 27px 14px rgba(34, 60, 80, 0.2);
+    transition: 0.2s;
+    animation: change-img;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+
+.tape1:hover{
+    animation-play-state: paused;
+}
+
+
+
+
+
+
+
+
+.text{
+    position: absolute;
+    width: auto;
+}
+
+
+
+.pricetape div{
+    color: #ffa7c7;
+    display: inline-block;
+    width: 750px;
+    height: 750px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 0px 10px 120px 10px;
+}
+
+
+
+.pricetape p{
+    display: inline;
+    position: absolute;
+    left: 75px;
+    color: black;
+    vertical-align: middle;
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    top: 100px;
+}
+
+
+
+.text .saveskidka{
+    top: 160px;
+    padding: 5px;
+    background-color: #ff476c;
+    color: white;
+    font-size: 16px;
+}
+
+.text .textline{
+    display: inline;
+    position: absolute;
+    top: 145px;
+    text-align: right;
+    left: 175px;
+    color: gray;
+    vertical-align: middle;
+    font-size: 26px;
+    text-decoration: line-through;
+    font-family: 'Playfair Display', serif;
+
+}
+
+.text .discountprice{
+    display: inline;
+    position: absolute;
+    top: 145px;
+    text-align: right;
+    left: 255px;
+    color: #ff476c;
+    vertical-align: middle;
+    font-size: 26px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+
+
+.text .dostyp{
+    display: inline;
+    position: absolute;
+    top: 200px;
+    text-align: right;
+    left: 75;
+    color: black;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.text .greentext{
+    display: inline;
+    position: absolute;
+    top: 200px;
+    text-align: right;
+    left: 195px;
+    color: #cb9c22;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text .buuuy02{
+    background-color: white;
+    color: #ff476c;
+    border: 2px solid #ff476c;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 100px 10px 100px;
+    top: 260px;
+    left: 175px;
+	border-radius: 5px;
+	text-align: center;    
+}
+
+.text .buuuy02:hover{
+    color: white;
+    background-color: #ff93bb;
+    transition: 0.2s;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.text .buuuy03{
+    background-color: #ff476c;
+    color: white;
+    border: 2px solid #ff476c;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 123px 10px 123px;
+    top: 330px;
+    left: 175px;
+	border-radius: 5px;
+	text-align: center;    
+}
+
+.text .buuuy03:hover{
+    color: white;
+    background-color: #ff93bb;
+    transition: 0.2s;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nazad02{
+    background-color: white;
+    color: #ff476c;
+    border: 2px solid #ff476c;
+    font-size: 20px;
+    text-decoration: none;
+	padding: 10px;
+	border-radius: 5px;
+	width: 175px;
+	text-align: center;    
+	margin: auto;
+}
+
+.nazad02:hover{
+    color: white;
+    background-color: rgba(255, 71, 108, 0.4);
+    transition: 0.2s;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+.nazad{
+    background-color: white;
+    padding-bottom: 75px;
+    padding-top: 75px;
+}
+
+.nazad a{
+    text-decoration: none;
+    color: #ff476c;
+}
+
+.nazad a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.gotoshop02{
+    background-color: white;
+    color: #ff476c;
+    border: 2px solid #ff476c;
+    font-size: 20px;
+    text-decoration: none;
+	padding: 20px;
+	border-radius: 5px;
+	width: 175px;
+	text-align: center;    
+	margin: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.knopka a{
+    font-size: 32px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.knopka {
+    left: 30px;
+    bottom: 30px;
+    background-color: #ffa7c7;
+    border-radius: 100px 0 100px 0;
+    position: fixed;
+    padding: 15px 15px 15px 15px;
+    border: solid white 2px;
+}
+
+.knopka:hover{
+    background-color: #ff93bb;
+    transition: 0.2s;
+}
