@@ -1,0 +1,68 @@
+.tape{
+    margin: 75px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+
+
+
+.gotoshop02{
+    background-color: white;
+    color: #ff476c;
+    border: 2px solid #ff476c;
+    font-size: 20px;
+    text-decoration: none;
+	padding: 20px;
+	border-radius: 5px;
+	width: 175px;
+	text-align: center;
+	margin: auto;
+
+}
+
+.gotoshop02:hover{
+    color: white;
+    background-color: rgba(255, 71, 108, 0.4);
+    transition: 0.2s;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+.gotoshop2{
+    background-color: white;
+    padding-bottom: 75px;
+    padding-top: 200px;
+}
+
+.gotoshop2 a{
+    text-decoration: none;
+    color: #ff476c;
+}
+
+.gotoshop2 a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.cart{
+    border: 1px solid gray;
+    font-size: 20px;
+    text-decoration: none;
+	padding: 20px;
+	border-radius: 5px;
+	width: 800px;
+	text-align: center;
+	margin: auto;
+    margin-bottom: 75px;
+}
+
+
