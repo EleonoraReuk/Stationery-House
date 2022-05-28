@@ -1,0 +1,21 @@
+@keyframes change-img {
+    0% {
+        background-image: url('../img18/Декоративный_скотч_1/DC1.jpg');
+    }
+
+    25% {
+        background-image: url('../img18/Декоративный_скотч_1/DC2.jpg');
+    }
+    
+    50%{
+        background-image: url('../img18/Декоративный_скотч_1/DC3.jpg');
+    }
+
+    75%{
+        background-image: url('../img18/Декоративный_скотч_1/DC4.jpg');
+    }
+
+    100% {
+        background-image: url('../img18/Декоративный_скотч_1/DC1.jpg');
+    }
+}
