@@ -1,0 +1,555 @@
+.tape{
+    margin: 75px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+.pricetape{
+    text-align: center;
+    height: 240px;
+}
+
+.tape1{
+    background-image: url('../img1/Декоративный_скотч/decorativeType1.jpg');
+}
+
+.tape1:hover{
+    background-image: url('../img1/Декоративный_скотч/decorativeTape01.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+.tape2{
+    background-image: url('../img1/Декоративный_скотч/decorativeType2.jpg');
+}
+
+.tape2:hover{
+    background-image: url('../img1/Декоративный_скотч/decorativeTape02.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape3{
+    background-image: url('../img1/Декоративный_скотч/decorativeType3.jpg');
+}
+
+.tape3:hover{
+    background-image: url('../img1/Декоративный_скотч/decorativeTape03.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape4{
+    background-image: url('../img1/Декоративный_скотч/decorativeType4.jpg');
+}
+
+.tape4:hover{
+    background-image: url('../img1/Декоративный_скотч/decorativeTape04.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape5{
+    background-image: url('../img1/Декоративный_скотч/decorativeType5.jpg');
+}
+
+.tape5:hover{
+    background-image: url('../img1/Декоративный_скотч/decorativeTape05.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.pricetape div{
+    color: #ffa7c7;
+    display: inline-block;
+    width: 215px;
+    height: 215px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 10px;
+    border-right: 3px solid white;
+    border-left: 3px solid white;
+}
+
+.pricetape p{
+    display: inline;
+    position: absolute;
+    top: 200px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: black;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricetape .textline{
+    display: inline;
+    position: absolute;
+    top: 250px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: gray;
+    vertical-align: middle;
+    font-size: 16px;
+    text-decoration: line-through;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricetape .discountprice{
+    display: inline;
+    position: absolute;
+    top: 263px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: #ff476c;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+.pricestickers{
+    text-align: center;
+    height: 240px;
+}
+
+.sticker1{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy1.jpg');
+}
+
+.sticker1:hover{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy01.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.sticker2{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy2.jpg');
+}
+
+.sticker2:hover{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy02.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.sticker3{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy3.jpg');
+}
+
+.sticker3:hover{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy03.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.sticker4{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy4.jpg');
+}
+
+.sticker4:hover{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy04.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.sticker5{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy5.jpg');
+}
+
+.sticker5:hover{
+    background-image: url('../img1/бумага_для_скрапбукинга/Rosyposy05.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.pricestickers div{
+    color: #ffa7c7;
+    display: inline-block;
+    width: 215px;
+    height: 215px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 10px;
+    border-right: 3px solid white;
+    border-left: 3px solid white;
+}
+
+.pricestickers p{
+    display: inline;
+    position: absolute;
+    top: 200px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: black;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricestickers .textline{
+    display: inline;
+    position: absolute;
+    top: 275px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: gray;
+    vertical-align: middle;
+    font-size: 16px;
+    text-decoration: line-through;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricestickers .discountprice{
+    display: inline;
+    position: absolute;
+    top: 288px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: #ff476c;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+.sticers{
+    margin: 75px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+.case{
+    margin: 75px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+.gotoshop01{
+    background-color: white;
+    color: #ff476c;
+    border: 2px solid #ff476c;
+    font-size: 20px;
+    text-decoration: none;
+	padding: 20px;
+	border-radius: 5px;
+	width: 175px;
+	text-align: center;
+	margin: auto;
+
+}
+
+.gotoshop01:hover{
+    color: white;
+    background-color: rgba(255, 71, 108, 0.4);
+    transition: 0.2s;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+.gotoshop1{
+    background-color: white;
+    padding-bottom: 75px;
+    padding-top: 200px;
+}
+
+.gotoshop1 a{
+    text-decoration: none;
+    color: #ff476c;
+}
+
+.gotoshop1 a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+.gotoshop02{
+    background-color: white;
+    color: #ff476c;
+    border: 2px solid #ff476c;
+    font-size: 20px;
+    text-decoration: none;
+	padding: 20px;
+	border-radius: 5px;
+	width: 175px;
+	text-align: center;
+	margin: auto;
+
+}
+
+.gotoshop02:hover{
+    color: white;
+    background-color: rgba(255, 71, 108, 0.4);
+    transition: 0.2s;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+.gotoshop2{
+    background-color: white;
+    padding-bottom: 75px;
+    padding-top: 200px;
+}
+
+.gotoshop2 a{
+    text-decoration: none;
+    color: #ff476c;
+}
+
+.gotoshop2 a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.pricecase div{
+    color: #ffa7c7;
+    display: inline-block;
+    width: 215px;
+    height: 215px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 10px;
+    border-right: 3px solid white;
+    border-left: 3px solid white;
+}
+
+.pricecase p{
+    display: inline;
+    position: absolute;
+    top: 200px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: black;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricecase .textline{
+    display: inline;
+    position: absolute;
+    top: 275px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: gray;
+    vertical-align: middle;
+    font-size: 16px;
+    text-decoration: line-through;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricecase .discountprice{
+    display: inline;
+    position: absolute;
+    top: 288px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: #ff476c;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricecase{
+    text-align: center;
+    height: 240px;
+}
+
+.case1{
+    background-image: url('../img1/Пенал/Case1.jpg');
+}
+
+.case1:hover{
+    background-image: url('../img1/Пенал/Case01.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.case2{
+    background-image: url('../img1/Пенал/Case2.jpg');
+}
+
+.case2:hover{
+    background-image: url('../img1/Пенал/Case02.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.case3{
+    background-image: url('../img1/Пенал/Case3.jpg');
+}
+
+.case3:hover{
+    background-image: url('../img1/Пенал/Case03.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.case4{
+    background-image: url('../img1/Пенал/Case4.jpg');
+}
+
+.case4:hover{
+    background-image: url('../img1/Пенал/Case04.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.case5{
+    background-image: url('../img1/Пенал/Case5.jpg');
+}
+
+.case5:hover{
+    background-image: url('../img1/Пенал/Case05.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+
+.gotoshop03{
+    background-color: white;
+    color: #ff476c;
+    border: 2px solid #ff476c;
+    font-size: 20px;
+    text-decoration: none;
+	padding: 20px;
+	border-radius: 5px;
+	width: 175px;
+	text-align: center;
+	margin: auto;
+    margin-bottom: 75px;
+
+}
+
+.gotoshop03:hover{
+    color: white;
+    background-color: rgba(255, 71, 108, 0.4);
+    transition: 0.2s;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+.gotoshop3{
+    background-color: white;
+    padding-bottom: 75px;
+    padding-top: 200px;
+}
+
+.gotoshop3 a{
+    text-decoration: none;
+    color: #ff476c;
+}
+
+.gotoshop3 a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.knopka a{
+    font-size: 32px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.knopka {
+    left: 30px;
+    bottom: 30px;
+    background-color: #ffa7c7;
+    border-radius: 100px 0 100px 0;
+    position: fixed;
+    padding: 15px 15px 15px 15px;
+    border: solid white 2px;
+}
+
+.knopka:hover{
+    background-color: #ff93bb;
+    transition: 0.2s;
+}
+
+

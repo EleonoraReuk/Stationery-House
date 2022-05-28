@@ -1,0 +1,45 @@
+@media (orientation: portrait) {
+    .option div{
+        width: 20%;
+    }
+
+    .gotoshop1 .gotoshop01{
+        margin-top: 300px;
+    }
+
+    .gotoshop2 .gotoshop01{
+        margin-top: 350px;
+    }
+
+    .gotoshop3 .gotoshop01{
+        margin-top: 350px;
+    }
+    
+    .pricetape .tape4{
+        top: 100px;
+    }
+
+    .pricetape .tape5{
+        top: 100px;
+    }
+
+
+
+    .pricestickers .sticker4{
+        top: 120px;
+    }
+
+    .pricestickers .sticker5{
+        top: 120px;
+    }
+
+    
+
+    .pricecase .case4 {
+        top: 120px;
+    }
+
+    .pricecase .case5 {
+        top: 120px;
+    }
+}
