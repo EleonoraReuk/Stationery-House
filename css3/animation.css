@@ -1,0 +1,33 @@
+@keyframes change-img {
+    0% {
+        background-image: url('../img3/Декоративный_скотч_1/decorativeType1.jpg');
+    }
+
+    15% {
+        background-image: url('../img3/Декоративный_скотч_1/decorativeTape01.jpg');
+    }
+
+    30% {
+        background-image: url('../img3/Декоративный_скотч_1/decorativeTape02.jpg');
+    }
+
+    45% {
+        background-image: url('../img3/Декоративный_скотч_1/decorativeTape03.jpg');
+    }
+
+    60% {
+        background-image: url('../img3/Декоративный_скотч_1/decorativeTape04.jpg');
+    }
+
+    75% {
+        background-image: url('../img3/Декоративный_скотч_1/decorativeTape05.jpg');
+    }
+
+    90% {
+        background-image: url('../img3/Декоративный_скотч_1/decorativeTape06.jpg');
+    }
+
+    100% {
+        background-image: url('../img3/Декоративный_скотч_1/decorativeType1.jpg');
+    }
+}
