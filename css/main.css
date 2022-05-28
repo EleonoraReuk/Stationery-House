@@ -1,0 +1,633 @@
+.tape{
+    margin: 75px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+.pricetape{
+    text-align: center;
+    height: auto;
+}
+
+.tape1{
+    background-image: url('../img/Декоративный_скотч/decorativeType1.jpg');
+}
+
+.tape1:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeTape01.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+.tape2{
+    background-image: url('../img/Декоративный_скотч/decorativeType2.jpg');
+}
+
+.tape2:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeTape02.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape3{
+    background-image: url('../img/Декоративный_скотч/decorativeType3.jpg');
+}
+
+.tape3:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeTape03.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape4{
+    background-image: url('../img/Декоративный_скотч/decorativeType4.jpg');
+}
+
+.tape4:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeTape04.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape5{
+    background-image: url('../img/Декоративный_скотч/decorativeType5.jpg');
+}
+
+.tape5:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeTape05.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape6{
+    background-image: url('../img/Декоративный_скотч/decorativeType6.jpg');
+}
+
+.tape6:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeType06.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape7{
+    background-image: url('../img/Декоративный_скотч/decorativeType7.jpg');
+}
+
+.tape7:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeType07.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape8{
+    background-image: url('../img/Декоративный_скотч/decorativeType8.jpg');
+}
+
+.tape8:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeType08.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape9{
+    background-image: url('../img/Декоративный_скотч/decorativeType9.jpg');
+}
+
+.tape9:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeType09.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape10{
+    background-image: url('../img/Декоративный_скотч/decorativeType10.jpg');
+}
+
+.tape10:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeType010.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape11{
+    background-image: url('../img/Декоративный_скотч/decorativeType11.jpg');
+}
+
+.tape11:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeType011.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.tape12{
+    background-image: url('../img/Декоративный_скотч/decorativeType12.jpg');
+}
+
+.tape12:hover{
+    background-image: url('../img/Декоративный_скотч/decorativeType012.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.pricetape div{
+    color: #ffa7c7;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 0px 10px 120px 10px;
+}
+
+.pricetape p{
+    display: inline;
+    position: absolute;
+    top: 242px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: black;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricetape .textline{
+    display: inline;
+    position: absolute;
+    top: 292px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: gray;
+    vertical-align: middle;
+    font-size: 16px;
+    text-decoration: line-through;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricetape .discountprice{
+    display: inline;
+    position: absolute;
+    top: 305px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: #ff476c;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pricestickers{
+    text-align: center;
+    height: auto;
+}
+
+.sticker1{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy1.jpg');
+}
+
+.sticker1:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy01.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker2{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy2.jpg');
+}
+
+.sticker2:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy02.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker3{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy3.jpg');
+}
+
+.sticker3:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy03.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker4{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy4.jpg');
+}
+
+.sticker4:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy04.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker5{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy5.jpg');
+}
+
+.sticker5:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy05.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker6{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy6.jpg');
+}
+
+.sticker6:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy06.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker7{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy7.jpg');
+}
+
+.sticker7:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy07.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker8{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy8.jpg');
+}
+
+.sticker8:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy08.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker9{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy9.jpg');
+}
+
+.sticker9:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy09.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker10{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy10.jpg');
+}
+
+.sticker10:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy010.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker11{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy11.jpg');
+}
+
+.sticker11:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy011.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.sticker12{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy12.jpg');
+}
+
+.sticker12:hover{
+    background-image: url('../img/бумага_для_скрапбукинга/Rosyposy012.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.pricestickers div{
+    color: #ffa7c7;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 0px 10px 140px 10px;
+}
+
+.pricestickers p{
+    display: inline;
+    position: absolute;
+    top: 242px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: black;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricestickers .textline{
+    display: inline;
+    position: absolute;
+    top: 317px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: gray;
+    vertical-align: middle;
+    font-size: 16px;
+    text-decoration: line-through;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricestickers .discountprice{
+    display: inline;
+    position: absolute;
+    top: 330px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: #ff476c;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pricecase{
+    text-align: center;
+    height: auto;
+}
+
+.case1{
+    background-image: url('../img/Пенал/Case1.jpg');
+}
+
+.case1:hover{
+    background-image: url('../img/Пенал/Case01.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.case2{
+    background-image: url('../img/Пенал/Case2.jpg');
+}
+
+.case2:hover{
+    background-image: url('../img/Пенал/Case02.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.case3{
+    background-image: url('../img/Пенал/Case3.jpg');
+}
+
+.case3:hover{
+    background-image: url('../img/Пенал/Case03.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.case4{
+    background-image: url('../img/Пенал/Case4.jpg');
+}
+
+.case4:hover{
+    background-image: url('../img/Пенал/Case04.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.case5{
+    background-image: url('../img/Пенал/Case5.jpg');
+}
+
+.case5:hover{
+    background-image: url('../img/Пенал/Case05.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.case6{
+    background-image: url('../img/Пенал/Case6.jpg');
+}
+
+.case6:hover{
+    background-image: url('../img/Пенал/Case06.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.case7{
+    background-image: url('../img/Пенал/Case7.jpg');
+}
+
+.case7:hover{
+    background-image: url('../img/Пенал/Case07.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+.case8{
+    background-image: url('../img/Пенал/Case8.jpg');
+}
+
+.case8:hover{
+    background-image: url('../img/Пенал/Case08.jpg');
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0px 0px 27px 3px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.pricecase div{
+    color: #ffa7c7;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 0px 10px 140px 10px;
+}
+
+.pricecase p{
+    display: inline;
+    position: absolute;
+    top: 242px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: black;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricecase .textline{
+    display: inline;
+    position: absolute;
+    top: 317px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: gray;
+    vertical-align: middle;
+    font-size: 16px;
+    text-decoration: line-through;
+    font-family: 'Playfair Display', serif;
+}
+
+.pricecase .discountprice{
+    display: inline;
+    position: absolute;
+    top: 330px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    color: #ff476c;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.knopka a{
+    font-size: 32px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.knopka {
+    left: 30px;
+    bottom: 30px;
+    background-color: #ffa7c7;
+    border-radius: 100px 0 100px 0;
+    position: fixed;
+    padding: 15px 15px 15px 15px;
+    border: solid white 2px;
+}
+
+.knopka:hover{
+    background-color: #ff93bb;
+    transition: 0.2s;
+}
